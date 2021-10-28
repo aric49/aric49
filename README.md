@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aric Renzo, GitHub handle: @aric49. I'm an IT DevOps, Operations, and Cloud Engineer.  I specialize in containers, automation, and Cloud infrastructure best practices.
-- 👀 I’m interested in containers (Kubernetes, Docker, Podman, OpenShift Serverless container platforms), automation (Chef, Puppet, Salt, Ansible, Terraform, Python), and overall improving the lives of IT operations engineers by allowing them to sleep more and make fewer mistakes. 
+- 👀 I’m interested in containers (Kubernetes, Docker, Podman, OpenShift, Serverless container platforms), automation (Chef, Puppet, Salt, Ansible, Terraform, Python), and overall improving the lives of IT operations engineers by allowing them to sleep more and make fewer mistakes. 
 - 🌱 I’m currently learning:
   - [ ] Leveraging and optimizing serverless databases
   - [ ] Big Data concepts 
