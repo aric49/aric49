@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:
   - [ ] Leveraging and optimizing serverless databases
   - [ ] Big Data concepts 
-  - [ X ] Best practices for leveraging Infrastructure-as-code (Terraform) at scale
+  - [X] Best practices for leveraging Infrastructure-as-code (Terraform) at scale
 - 💞️ I’m looking to collaborate on open source projects involving operations, Cloud, and containerization technologies. 
 - 📫 How to reach me:
   -  email:  [aricrenzo@gmail.com](mailto:aricrenzo@gmail.com)
